@@ -15,8 +15,3 @@ Este proyecto consiste en una plataforma web para el análisis automático de el
 - Generación automática de reportes con resultados
 - Historial médico vinculado al paciente
 - Interfaz web interactiva y responsiva
-
-## 📷 Capturas de pantalla
-![Captura de pantalla 2025-05-24 125506](https://github.com/user-attachments/assets/ca7fca48-038c-46b5-adb4-5969b21b2128)
-![Captura de pantalla 2025-05-25 172707](https://github.com/user-attachments/assets/39145956-396e-49dd-95fe-a708c27295c9)
-
